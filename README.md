@@ -42,3 +42,7 @@ studied about equality comparison and equality algorithm in js
 
 mar-03-2024
 started studying about looping and control flow in js
+
+
+mar-11-2024
+studied about operators and uploaded the pending progress programs in github
