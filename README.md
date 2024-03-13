@@ -46,3 +46,9 @@ started studying about looping and control flow in js
 
 mar-11-2024
 studied about operators and uploaded the pending progress programs in github
+
+mar-12-2024
+uploaded my basic BMI calculator on GitHub
+
+mar-13-2024
+Created a Currency converter to convert USD to INR and INR to USD for project review
